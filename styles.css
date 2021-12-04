@@ -127,7 +127,7 @@ header .profile-image:hover {
 padding: 20px 40px;
 margin: 30px 40px;
 text-align: center;
-max-width: auto;
+max-width: 1200px;
 background: #fff
 }
 .card:hover {
@@ -272,3 +272,4 @@ main ul {
     max-width: 1200px;
     margin: 40px auto;
   }
+}
